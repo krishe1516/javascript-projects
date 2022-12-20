@@ -1,0 +1,19 @@
+.container{
+    background-color: rgb(154, 81, 81);
+    min-height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    
+}
+.header{
+    border: 3px solid rgb(214, 205, 205);
+    margin: 6rem 0rem;
+}
+#question{
+    border: 2px rgb(28, 23, 17);
+
+}
+
